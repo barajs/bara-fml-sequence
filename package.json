@@ -1,7 +1,7 @@
 {
   "name": "bara-fml-sequence",
   "version": "0.0.0",
-  "description": "Sequence execute function in order",
+  "description": "Execute functions in a sequence order",
   "main": "readme.js",
   "typings": "readme.d.ts",
   "repository": "git@github.com:barajs/bara-fml-sequence.git",
