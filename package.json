@@ -16,8 +16,8 @@
     "ts-toolbelt": "6.1.6"
   },
   "devDependencies": {
-    "prettier": "^1.19.1",
-    "typescript": "^3.7.4"
+    "prettier": "1.19.1",
+    "typescript": "3.7.4"
   },
   "quokka": {
     "env": {
