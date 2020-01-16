@@ -1,0 +1,18 @@
+{
+  "name": "bara-fml-sequence",
+  "version": "0.0.0",
+  "description": "Sequence execute function in order",
+  "main": "readme.js",
+  "typings": "readme.d.ts",
+  "repository": "git@github.com:barajs/bara-fml-sequence.git",
+  "author": "nampdn <nampdn@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.4"
+  }
+}
