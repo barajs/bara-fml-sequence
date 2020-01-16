@@ -9,10 +9,21 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "tsc -w"
+    "start": "tsc -w",
+    "ci": "tsc"
+  },
+  "dependencies": {
+    "ts-toolbelt": "6.1.6"
   },
   "devDependencies": {
     "prettier": "^1.19.1",
     "typescript": "^3.7.4"
+  },
+  "quokka": {
+    "env": {
+      "params": {
+        "env": "BABEL_ENV=test;NODE_PATH=abc"
+      }
+    }
   }
 }
