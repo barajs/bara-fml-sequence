@@ -13,7 +13,7 @@
     "ci": "tsc"
   },
   "dependencies": {
-    "ts-toolbelt": "6.1.6"
+    "ts-toolbelt": "6.15.5"
   },
   "devDependencies": {
     "prettier": "^1.19.1",
