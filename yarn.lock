@@ -7,10 +7,10 @@ prettier@^1.19.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
 
-ts-toolbelt@6.1.6:
-  version "6.1.6"
-  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-6.1.6.tgz#2485059771e450048debd1d2300212da3e4ddadb"
-  integrity sha512-zrLyrOg3LQlRi40hP8MHEXXlqkejYjBkX6U3ATY/NyBt0IRbYAJs8QG2meHV1HoRiTBMIgMav8ICu/IxOK4QCQ==
+ts-toolbelt@9.6.0:
+  version "9.6.0"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-9.6.0.tgz#50a25426cfed500d4a09bd1b3afb6f28879edfd5"
+  integrity sha512-nsZd8ZeNUzukXPlJmTBwUAuABDe/9qtVDelJeT/qW0ow3ZS3BsQJtNkan1802aM9Uf68/Y8ljw86Hu0h5IUW3w==
 
 typescript@^3.7.4:
   version "3.7.4"
